@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [jquerygo (v0.0.16)](http://github.com/travist/jquery.go.js)  [![npm package](https://img.shields.io/npm/v/npmtest-jquerygo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jquerygo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jquerygo.svg)](https://travis-ci.org/npmtest/node-npmtest-jquerygo)",
+    "description": "#### basic test coverage for  [jquerygo (v0.0.16)](http://github.com/travist/jquery.go.js)  [![npm package](https://img.shields.io/npm/v/npmtest-jquerygo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jquerygo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jquerygo.svg)](https://travis-ci.org/npmtest/node-npmtest-jquerygo)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "jquerygo": "*",

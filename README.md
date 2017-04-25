@@ -1,6 +1,6 @@
 # npmtest-jquerygo
 
-#### test coverage for  [jquerygo (v0.0.16)](http://github.com/travist/jquery.go.js)  [![npm package](https://img.shields.io/npm/v/npmtest-jquerygo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jquerygo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jquerygo.svg)](https://travis-ci.org/npmtest/node-npmtest-jquerygo)
+#### basic test coverage for  [jquerygo (v0.0.16)](http://github.com/travist/jquery.go.js)  [![npm package](https://img.shields.io/npm/v/npmtest-jquerygo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jquerygo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jquerygo.svg)](https://travis-ci.org/npmtest/node-npmtest-jquerygo)
 
 #### A node.js package to test and automate the web using jQuery with PhantomJS.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-jquerygo/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-jquerygo/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-jquerygo/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-jquerygo/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jquerygo/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jquerygo/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-jquerygo/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-jquerygo/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jquerygo/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jquerygo/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-jquerygo/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-jquerygo/build/coverage.html/index.html)
 
@@ -71,7 +71,8 @@
         "url": "git://github.com/travist/jquery.go.js.git"
     },
     "scripts": {},
-    "version": "0.0.16"
+    "version": "0.0.16",
+    "bin": {}
 }
 ```
 
